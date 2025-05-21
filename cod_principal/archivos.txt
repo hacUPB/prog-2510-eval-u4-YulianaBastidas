@@ -1,0 +1,14 @@
+Los archivos son una parte fundamental de la informática y la programación.
+Representan una forma de almacenar datos de manera persistente, permitiendo que la información sea guardada,
+leída y compartida a través del tiempo. Los archivos pueden contener una amplia
+variedad de datos, desde texto y números hasta imágenes, videos y programas completos.
+En el contexto de la programación, trabajar con archivos es esencial para tareas como
+el manejo de configuraciones, el procesamiento de información, la lectura y escritura de datos, 
+y muchas otras aplicaciones. A lo largo de esta introducción, exploraremos los conceptos básicos 
+del manejo de archivos y cómo los programadores pueden utilizarlos para interactuar con datos de
+manera efectiva y eficiente.
+
+Desde otra perspectiva, un archivo informático es una colección de bytes almacenados en un dispositivo. 
+En el sistema operativo, se representa como un flujo unidimensional de bytes y se identifica por su tamaño
+en bytes. El software interpreta el contenido del archivo, ya sea texto, imagen o datos, según su nombre y 
+contenido.
